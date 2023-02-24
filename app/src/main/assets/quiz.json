@@ -1,0 +1,124 @@
+{
+  "status_code": 200,
+  "status": true,
+  "message": "Data retrieved",
+  "questions": [
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "question_id": "1",
+      "question_name": "What is Machine Learning?",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "1",
+          "text": "Supervised learning",
+          "answer": true
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "2",
+          "text": "Reinforcement learning",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "3",
+          "text": "Unsupervised learning",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "question_id": "2",
+      "question_name": "What is Android Application Development?",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "1",
+          "text": "Decision tree",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "2",
+          "text": "Random-forest",
+          "answer": true
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "3",
+          "text": "Classification",
+          "answer": false
+        }
+      ],
+      "order": 1
+    },
+    {
+      "attachments": {
+        "url": "attachment Url",
+        "name": "attachment Name"
+      },
+      "question_id": "3",
+      "question_name": "what is Web development ?",
+      "questionType": "MCQ",
+      "options": [
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "1",
+          "text": "Artificial intelligence",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "2",
+          "text": "Deep learning",
+          "answer": false
+        },
+        {
+          "attachments": {
+            "url": "attachment Url",
+            "name": "attachment Name"
+          },
+          "option_id": "3",
+          "text": "Data learning",
+          "answer": true
+        }
+      ],
+      "order": 1
+    }
+  ]
+}
